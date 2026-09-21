@@ -1,17 +1,25 @@
 class Solution {
 public:
 
-    bool dfs(int u, int v,vector<bool>& vis, vector<vector<int>>& adj){
-        if(u == v){
-            return true;
-        }
+    bool bfs(int u, int v, vector<vector<int>>& adj){
+        queue<int> Q;
+        vector<bool> vis(adj.size(),false);
+
+        Q.push(u);
         vis[u] = true;
 
-        for(int ngbr : adj[u]){
-            if(!vis[ngbr]){
-               if(dfs(ngbr,v,vis,adj))
+        while(!Q.empty()){
+            int curr = Q.front();
+            Q.pop();
+
+            if(curr == v){
                 return true;
-               
+            }
+            for(int ngbr : adj[curr]){
+                if(!vis[ngbr]){
+                    vis[ngbr] = true;
+                    Q.push(ngbr);
+                }
             }
         }
         return false;
@@ -26,8 +34,7 @@ public:
             int u = x[0];
             int v = x[1];
 
-        vector<bool> vis(n+1,false);
-            if(dfs(u,v,vis,adj)){
+            if(bfs(u,v,adj)){
                 return x;
             }
             adj[u].push_back(v);
