@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/harshpareek10/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0207-course-schedule](https://github.com/harshpareek10/DSA/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshpareek10/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/harshpareek10/DSA/tree/master/0684-redundant-connection) |
 | [0938-range-sum-of-bst](https://github.com/harshpareek10/DSA/tree/master/0938-range-sum-of-bst) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harshpareek10/DSA/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/harshpareek10/DSA/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshpareek10/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -123,6 +125,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harshpareek10/DSA/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/harshpareek10/DSA/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshpareek10/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/harshpareek10/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/harshpareek10/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
