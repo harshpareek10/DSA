@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpareek10/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/harshpareek10/DSA/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/harshpareek10/DSA/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshpareek10/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpareek10/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/harshpareek10/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshpareek10/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshpareek10/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
