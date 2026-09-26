@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshpareek10/DSA/tree/master/0035-search-insert-position) |
+| [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpareek10/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/harshpareek10/DSA/tree/master/0875-koko-eating-bananas) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
