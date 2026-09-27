@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpareek10/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/harshpareek10/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/harshpareek10/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/harshpareek10/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -165,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
+| [0860-lemonade-change](https://github.com/harshpareek10/DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
