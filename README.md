@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshpareek10/DSA/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/harshpareek10/DSA/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
 ## Bracket Sequences
 |  |
