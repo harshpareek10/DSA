@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/harshpareek10/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshpareek10/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshpareek10/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/harshpareek10/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
