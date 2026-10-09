@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/harshpareek10/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/harshpareek10/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpareek10/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/harshpareek10/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/harshpareek10/DSA/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/harshpareek10/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/harshpareek10/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/harshpareek10/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/harshpareek10/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshpareek10/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshpareek10/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshpareek10/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshpareek10/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/harshpareek10/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
