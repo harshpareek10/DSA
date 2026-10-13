@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshpareek10/DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/harshpareek10/DSA/tree/master/0239-sliding-window-maximum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/harshpareek10/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/harshpareek10/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/harshpareek10/DSA/tree/master/0402-remove-k-digits) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/harshpareek10/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/harshpareek10/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshpareek10/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -224,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/harshpareek10/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
