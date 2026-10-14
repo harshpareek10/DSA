@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshpareek10/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshpareek10/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/harshpareek10/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -229,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/harshpareek10/DSA/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
