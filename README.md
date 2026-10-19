@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshpareek10/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/harshpareek10/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/harshpareek10/DSA/tree/master/0078-subsets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/harshpareek10/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/harshpareek10/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
