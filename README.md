@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshpareek10/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshpareek10/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0131-palindrome-partitioning](https://github.com/harshpareek10/DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/harshpareek10/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshpareek10/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshpareek10/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/harshpareek10/DSA/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshpareek10/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Bracket Sequences
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshpareek10/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshpareek10/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshpareek10/DSA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/harshpareek10/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
