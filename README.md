@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/harshpareek10/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/harshpareek10/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshpareek10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshpareek10/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshpareek10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/harshpareek10/DSA/tree/master/0735-asteroid-collision) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshpareek10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
 | ------- |
