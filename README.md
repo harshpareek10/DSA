@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshpareek10/DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/harshpareek10/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0207-course-schedule](https://github.com/harshpareek10/DSA/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshpareek10/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/harshpareek10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshpareek10/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/harshpareek10/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshpareek10/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshpareek10/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshpareek10/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/harshpareek10/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/harshpareek10/DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/harshpareek10/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshpareek10/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshpareek10/DSA/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshpareek10/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshpareek10/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshpareek10/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshpareek10/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/harshpareek10/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
