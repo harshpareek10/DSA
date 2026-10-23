@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpareek10/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/harshpareek10/DSA/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/harshpareek10/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/harshpareek10/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/harshpareek10/DSA/tree/master/0503-next-greater-element-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshpareek10/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshpareek10/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/harshpareek10/DSA/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshpareek10/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -248,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Backtracking
 |  |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshpareek10/DSA/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
