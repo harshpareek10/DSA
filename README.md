@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/harshpareek10/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshpareek10/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshpareek10/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshpareek10/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshpareek10/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/harshpareek10/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshpareek10/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/harshpareek10/DSA/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshpareek10/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshpareek10/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/harshpareek10/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshpareek10/DSA/tree/master/0735-asteroid-collision) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshpareek10/DSA/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshpareek10/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshpareek10/DSA/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshpareek10/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
