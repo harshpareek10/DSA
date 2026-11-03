@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshpareek10/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshpareek10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshpareek10/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshpareek10/DSA/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshpareek10/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpareek10/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshpareek10/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
